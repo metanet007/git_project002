@@ -17,6 +17,8 @@ public class FirstClass {
 		System.out.println("this is the second commit from remote master");
 		
 		System.out.println("first commit from metin branch");
+		
+		System.out.println("the second commit from local metin");
 
 
 	}
