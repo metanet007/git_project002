@@ -20,6 +20,11 @@ public class FirstClass {
 		
 		System.out.println("the second commit from local metin");
 
+		System.out.println("this is the third commit from local metin");
+
+		System.out.println("this is our conflict");
+
+
 
 	}
 
