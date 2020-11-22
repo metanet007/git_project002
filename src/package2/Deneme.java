@@ -24,6 +24,7 @@ public class Deneme {
 	System.out.println("first commit from metin branch");
 	
 	System.out.println("the second commit from metin");
+	System.out.println("this is our conflict");
 
 	
 	
