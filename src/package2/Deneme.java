@@ -22,6 +22,8 @@ public class Deneme {
 	System.out.println("hey yusuh welcome");
 	
 	System.out.println("first commit from metin branch");
+	
+	System.out.println("the second commit from metin");
 
 	
 	
