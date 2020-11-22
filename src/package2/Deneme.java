@@ -6,6 +6,7 @@ public class Deneme {
 		
 	System.out.println("this is the first changes from local master");
 	System.out.println("this is second changes from local master");
+	System.out.println("this is the third commit from loacl");
 	
 	
 	}
