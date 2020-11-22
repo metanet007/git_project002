@@ -12,6 +12,8 @@ public class Deneme {
 	System.out.println("this is the 4th commit from local master");		
 		
 	System.out.println("this is the second commit from remote repo");
+	
+	System.out.println("hey yusuh welcome");
 
 	
 	
